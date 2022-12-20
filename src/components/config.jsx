@@ -1,3 +1,3 @@
 export const env = {
-    api : "https://gmail-nodes-first.herokuapp.com"
+    api : "https://siva-gmail-clone.onrender.com"
 }
